@@ -4,7 +4,7 @@ function foo(msg : string, name? : string){
     if(name){
         outPut = msg + name;
     }
-    console.log(`Hey + ${outPut}`)
+    console.log(`Hey ${outPut}`)
 
 }
 
